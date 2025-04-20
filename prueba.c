@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hola desde WSL y C!\n");
+    printf("Esta es la primera rama\n");
     return 0;
 }
